@@ -76,13 +76,13 @@ abdullahi_portfolio/
 3. Under **Branch**, select `main` and `/root`.
 4. Save and get your live link.
 
-👉 **Live Demo (GitHub Pages):** (https://abumujahid1988.github.io/abdullahi-portfolio/)
-
 ### Option 2: Netlify
 
 1. Go to [Netlify](https://www.netlify.com/).
 2. Drag & drop the project folder onto the dashboard.
 3. Netlify will generate a live link automatically.
+
+👉 **Live Demo (Netlify): (https://abumujahid-portfolio.netlify.app/)
 
 ---
 
